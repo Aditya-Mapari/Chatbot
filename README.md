@@ -90,7 +90,7 @@ MIT License - feel free to use this project for your own learning and developmen
 
 ## Author
 
--   DEV. Harshal Mali
+-   DEV. Aditya Mapari
 
 ## Acknowledgments
 
