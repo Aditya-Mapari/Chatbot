@@ -1,0 +1,386 @@
+{
+	"questionsAnswers": [
+		{
+    "question": "What is the history of Pune?",
+    "answer": "Pune has a rich history dating back to the Maratha Empire and was the seat of Peshwas."
+  },
+  {
+    "question": "Why is Pune called the Oxford of the East?",
+    "answer": "Pune is known as the Oxford of the East due to its numerous prestigious educational institutions."
+  },
+  {
+    "question": "Which river flows through Pune?",
+    "answer": "The Mula and Mutha rivers flow through Pune."
+  },
+  {
+    "question": "What is Pune famous for?",
+    "answer": "Pune is famous for its education, historical forts, cultural heritage, and IT industry."
+  },
+  {
+    "question": "What is the local language of Pune?",
+    "answer": "Marathi is the most commonly spoken language in Pune."
+  },
+  {
+    "question": "What are the best places to visit in Pune?",
+    "answer": "Some of the best places are Shaniwar Wada, Aga Khan Palace, Sinhagad Fort, and Dagdusheth Ganpati."
+  },
+  {
+    "question": "Where is Shaniwar Wada located?",
+    "answer": "Shaniwar Wada is located in the heart of Pune city near Bajirao Road."
+  },
+  {
+    "question": "What is special about Aga Khan Palace?",
+    "answer": "It is a historical monument where Mahatma Gandhi was imprisoned during the freedom struggle."
+  },
+  {
+    "question": "How far is Sinhagad Fort from Pune?",
+    "answer": "Sinhagad Fort is approximately 30 km from Pune."
+  },
+  {
+    "question": "Is there an entry fee for Raja Dinkar Kelkar Museum?",
+    "answer": "Yes, there is a nominal entry fee for Raja Dinkar Kelkar Museum."
+  },
+  {
+    "question": "How can I travel from Swargate to Hinjewadi?",
+    "answer": "You can use PMPML buses, shared cabs, or the upcoming metro."
+  },
+  {
+    "question": "Is Pune Metro operational?",
+    "answer": "Yes, some routes of Pune Metro are operational as of 2024."
+  },
+  {
+    "question": "How do I check PMPML bus routes?",
+    "answer": "You can check PMPML routes on their official website or via mobile apps."
+  },
+  {
+    "question": "What is the nearest railway station to Shivaji Nagar?",
+    "answer": "Shivaji Nagar has its own railway station."
+  },
+  {
+    "question": "Are auto rickshaws available in Pune?",
+    "answer": "Yes, auto rickshaws are available and they operate on meters."
+  },
+  {
+    "question": "Where can I eat the best Misal Pav in Pune?",
+    "answer": "Katakirr, Bedekar, and Vaishali are some of the best places."
+  },
+  {
+    "question": "Which is a famous food street in Pune?",
+    "answer": "FC Road and JM Road are popular food streets."
+  },
+  {
+    "question": "Where is Vaishali Restaurant located?",
+    "answer": "Vaishali is located on FC Road."
+  },
+  {
+    "question": "Is Goodluck Café vegetarian?",
+    "answer": "Goodluck Café serves both vegetarian and non-vegetarian dishes."
+  },
+  {
+    "question": "Which is the best place for street food in Pune?",
+    "answer": "Try Kalyani Nagar, FC Road, and Viman Nagar for great street food."
+  },
+  {
+    "question": "What is the emergency number for police in Pune?",
+    "answer": "Dial 100 for police emergency."
+  },
+  {
+    "question": "Which is the nearest hospital in Kothrud?",
+    "answer": "Deenanath Mangeshkar Hospital is nearby."
+  },
+  {
+    "question": "Where can I find 24-hour pharmacies in Pune?",
+    "answer": "Most Apollo and Noble pharmacies are open 24/7."
+  },
+  {
+    "question": "Is there a fire station in Shivaji Nagar?",
+    "answer": "Yes, there is a fire station in Shivaji Nagar."
+  },
+  {
+    "question": "What is the ambulance number in Pune?",
+    "answer": "Dial 108 for ambulance services."
+  },
+  {
+    "question": "Which are the top engineering colleges in Pune?",
+    "answer": "COEP, MIT, and VIIT are some of the top engineering colleges."
+  },
+  {
+    "question": "What is the full form of COEP?",
+    "answer": "COEP stands for College of Engineering, Pune."
+  },
+  {
+    "question": "Where is Symbiosis International University located?",
+    "answer": "It is located in Lavale, Pune."
+  },
+  {
+    "question": "How do I apply to Fergusson College?",
+    "answer": "You can apply through the official website during admission season."
+  },
+  {
+    "question": "Is Savitribai Phule Pune University a government college?",
+    "answer": "Yes, it is a state university."
+  },
+  {
+    "question": "Where are IT companies located in Pune?",
+    "answer": "Hinjewadi, Magarpatta, and Kharadi are IT hubs."
+  },
+  {
+    "question": "How do I find internships in Pune?",
+    "answer": "Websites like Internshala and LinkedIn list local internships."
+  },
+  {
+    "question": "Which companies hire freshers in Pune?",
+    "answer": "TCS, Infosys, Wipro, and Cognizant often hire freshers."
+  },
+  {
+    "question": "What is the average fresher salary in Pune IT?",
+    "answer": "It ranges from 3 to 5 LPA depending on the company."
+  },
+  {
+    "question": "Are walk-in interviews common in Pune?",
+    "answer": "Yes, especially for BPO and entry-level IT roles."
+  },
+  {
+    "question": "What are the major festivals celebrated in Pune?",
+    "answer": "Ganesh Chaturthi, Diwali, Holi, and Pune Festival are major celebrations."
+  },
+  {
+    "question": "Where can I watch plays in Pune?",
+    "answer": "Balgandharva and Yashwantrao Chavan Natyagruha host regular plays."
+  },
+  {
+    "question": "What are the popular malls in Pune?",
+    "answer": "Phoenix Marketcity, Amanora Mall, and Seasons Mall are very popular."
+  },
+  {
+    "question": "Where can I find live music in Pune?",
+    "answer": "Check places like High Spirits, Swig, and Effingut for live gigs."
+  },
+  {
+    "question": "What is Shaniwar Wada Light and Sound Show?",
+    "answer": "It’s an evening show narrating the history of the fort using lights and sounds."
+  },
+  {
+    "question": "What is the weather like in Pune?",
+    "answer": "Pune generally has a moderate climate with hot summers and cool winters."
+  },
+  {
+    "question": "Does it rain heavily in Pune?",
+    "answer": "Pune receives moderate rainfall during the monsoon season."
+  },
+  {
+    "question": "When is the best time to visit Pune?",
+    "answer": "October to February is the best time."
+  },
+  {
+    "question": "Is Pune colder than Mumbai?",
+    "answer": "Yes, Pune is generally cooler than Mumbai, especially in winter."
+  },
+  {
+    "question": "What is the average temperature in Pune in summer?",
+    "answer": "It ranges from 30°C to 40°C."
+  },
+  {
+    "question": "Best College in Pune?",
+    "answer": "Fergusson College is One of the best college in Pune."
+  },
+  {
+    "question": "Which airport serves Pune city?",
+    "answer": "Pune International Airport located in Lohegaon serves the city."
+  },
+  {
+    "question": "How far is Pune from Mumbai?",
+    "answer": "Pune is around 150 kilometers from Mumbai."
+  },
+  {
+    "question": "What is the PIN code of Pune city?",
+    "answer": "Pune has multiple PIN codes, but the main city PIN is 411001."
+  },
+  {
+    "question": "Which hill stations are near Pune?",
+    "answer": "Lonavala, Khandala, and Mahabaleshwar are popular hill stations near Pune."
+  },
+  {
+    "question": "What is the best way to reach Pune from Mumbai?",
+    "answer": "You can travel by train, bus, or drive via the Mumbai-Pune Expressway."
+  },
+  {
+    "question": "Which is the biggest IT park in Pune?",
+    "answer": "Rajiv Gandhi Infotech Park in Hinjewadi is the biggest IT park."
+  },
+  {
+    "question": "Where can I go trekking near Pune?",
+    "answer": "Sinhagad, Rajgad, Torna, and Lohagad forts are popular trekking spots."
+  },
+  {
+    "question": "What is Dagdusheth Halwai Ganpati Temple famous for?",
+    "answer": "It is a famous and richly decorated Ganesh temple, a major spiritual attraction in Pune."
+  },
+  {
+    "question": "Is Pune a safe city for tourists?",
+    "answer": "Yes, Pune is considered one of the safer cities in India for tourists."
+  },
+  {
+    "question": "What are the top shopping areas in Pune?",
+    "answer": "MG Road, FC Road, Tulsi Baug, and Phoenix Marketcity are popular shopping spots."
+  },
+  {
+    "question": "Does Pune have any UNESCO heritage sites?",
+    "answer": "While Pune doesn’t have a UNESCO site, nearby Ajanta and Ellora caves are UNESCO-listed."
+  },
+  {
+    "question": "Which local sweets are famous in Pune?",
+    "answer": "Chitale Bakarwadi, Mango Barfi, and Kharwas are local favorites."
+  },
+  {
+    "question": "What is the main festival of Pune?",
+    "answer": "Ganesh Chaturthi is the most widely celebrated festival in Pune."
+  },
+  {
+    "question": "Is there a zoo in Pune?",
+    "answer": "Yes, the Rajiv Gandhi Zoological Park is located in Katraj, Pune."
+  },
+  {
+    "question": "What is Pune's literacy rate?",
+    "answer": "As per the last census, Pune's literacy rate is over 86%."
+  },
+  {
+    "question": "Where is Pune's main bus terminal?",
+    "answer": "The main terminal is Swargate Bus Station."
+  },
+  {
+    "question": "Which sport is popular in Pune?",
+    "answer": "Cricket is the most popular sport in Pune."
+  },
+  {
+    "question": "What is Pune FC?",
+    "answer": "Pune FC was a professional football club based in Pune."
+  },
+  {
+    "question": "Where is the Pune Okayama Friendship Garden?",
+    "answer": "It is located at Sinhagad Road and is also known as Pu La Deshpande Garden."
+  },
+  {
+    "question": "Which forts are near Pune for a weekend trip?",
+    "answer": "Sinhagad, Rajgad, Torna, Purandar, and Lohagad forts are nearby."
+  },
+  {
+    "question": "Is there a planetarium in Pune?",
+    "answer": "Yes, the Nehru Planetarium is located at IUCAA, Pune University."
+  },
+  {
+    "question": "What is Pune’s official vehicle registration code?",
+    "answer": "MH-12 and MH-14 are the codes for Pune city and Pimpri-Chinchwad."
+  },
+  {
+    "question": "Which rivers meet in Pune?",
+    "answer": "The Mula and Mutha rivers meet at Sangamwadi in Pune."
+  },
+  {
+    "question": "What is the cultural capital of Maharashtra?",
+    "answer": "Pune is often called the cultural capital of Maharashtra."
+  },
+  {
+    "question": "Which area in Pune is best for nightlife?",
+    "answer": "Koregaon Park, Viman Nagar, and Baner are popular for nightlife."
+  },
+  {
+    "question": "Are there any amusement parks in Pune?",
+    "answer": "Yes, Adlabs Imagica and Diamond Water Park are nearby amusement parks."
+  },
+  {
+    "question": "What are some famous libraries in Pune?",
+    "answer": "British Library, Pune University Library, and BCL are well-known."
+  },
+  {
+    "question": "What is the Pune Festival?",
+    "answer": "Pune Festival is an annual cultural event celebrated during Ganesh Chaturthi."
+  },
+  {
+    "question": "Which film institute is located in Pune?",
+    "answer": "The Film and Television Institute of India (FTII) is located in Pune."
+  },
+  {
+    "question": "Where is the National Defence Academy located?",
+    "answer": "NDA is located at Khadakwasla near Pune."
+  },
+  {
+    "question": "What is NDA in Pune?",
+    "answer": "NDA stands for National Defence Academy, a premier defense training institute."
+  },
+  {
+    "question": "Which industries are dominant in Pune?",
+    "answer": "Automobile, IT, education, and manufacturing industries are prominent."
+  },
+  {
+    "question": "Is Pune good for startups?",
+    "answer": "Yes, Pune has a growing startup ecosystem with accelerators and funding support."
+  },
+  {
+    "question": "Which temple is located on Parvati Hill?",
+    "answer": "Parvati Temple is located on top of Parvati Hill."
+  },
+  {
+    "question": "What is Balewadi famous for?",
+    "answer": "Balewadi is known for the Shiv Chhatrapati Sports Complex."
+  },
+  {
+    "question": "What is the significance of the Kelkar Museum?",
+    "answer": "It houses a vast collection of artifacts showcasing Indian culture and heritage."
+  },
+  {
+    "question": "What is the main railway station in Pune?",
+    "answer": "Pune Junction is the main railway station."
+  },
+  {
+    "question": "Where can I learn classical music in Pune?",
+    "answer": "Gandharva Mahavidyalaya and Sawai Gandharva Bhavan offer music training."
+  },
+  {
+    "question": "Which major events are held at Shree Shiv Chhatrapati Sports Complex?",
+    "answer": "It hosts national and international sports events, marathons, and tournaments."
+  },
+  {
+    "question": "Where is Khadakwasla Dam located?",
+    "answer": "Khadakwasla Dam is around 20 km from Pune and is a popular picnic spot."
+  },
+  {
+    "question": "Which institute in Pune is famous for management studies?",
+    "answer": "Symbiosis Institute of Business Management is renowned for MBA programs."
+  },
+  {
+    "question": "Is Ola and Uber available in Pune?",
+    "answer": "Yes, both Ola and Uber operate widely across Pune."
+  },
+  {
+    "question": "What is Bhandarkar Oriental Research Institute?",
+    "answer": "It is a research institute known for studies in oriental literature and culture."
+  },
+  {
+    "question": "What is a good weekend getaway from Pune?",
+    "answer": "Lavasa, Lonavala, and Panchgani are popular weekend getaways."
+  },
+  {
+    "question": "Which Pune area is known for its German Bakery?",
+    "answer": "Koregaon Park is known for the original German Bakery."
+  },
+  {
+    "question": "What is the oldest college in Pune?",
+    "answer": "Fergusson College, established in 1885, is one of the oldest."
+  },
+  {
+    "question": "Where is the Osho Ashram located?",
+    "answer": "The Osho International Meditation Resort is located in Koregaon Park."
+  },
+  {
+    "question": "What is Peth in Pune?",
+    "answer": "Peths are traditional localities in the old city area, each with historical significance."
+  },
+  {
+    "question": "What is the role of PMC in Pune?",
+    "answer": "PMC or Pune Municipal Corporation governs civic infrastructure and services."
+  }
+  
+		
+	]
+}
